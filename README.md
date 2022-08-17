@@ -15,10 +15,11 @@
 |OpenCV|4.4.0|
 |CUDA|11.4|
 |CuDNN||
-|||  
+|NumPy||  
 
 ## 🛠️ROS Package  
-
+[3D-LiDAR-Detection](https://github.com/msjun23/3D-LiDAR-Detection) : 3D LiDAR Object Detection Package  
+lidar_camera : Projection Package
 
 ## 🛠️System Architecture  
 <p align="center"><img src="img/System_Architecture.png" width="800px"></p>  
