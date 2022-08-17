@@ -14,8 +14,8 @@
 |ROS|Noetic|
 |OpenCV|4.4.0|
 |CUDA|11.4|
-|CuDNN||
-|NumPy||  
+|CuDNN|8.2.4|
+|NumPy|1.23.1|  
 
 ## 🛠️ROS Package  
 [3D-LiDAR-Detection](https://github.com/msjun23/3D-LiDAR-Detection) : 3D LiDAR Object Detection Package  
