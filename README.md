@@ -21,6 +21,7 @@
 
 
 ## 🛠️System Architecture  
+<p align="center"><img src="img/System_Architecture.png" width="800px"></p>  
 
 ## 🛠️Test  
 <p align="center"><img src="img/Test.gif" width="800px"></p>  
