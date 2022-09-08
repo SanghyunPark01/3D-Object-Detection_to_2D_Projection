@@ -1,7 +1,7 @@
 # 3D-Object-Detection_to_2D_Projection
 2022년도 1학기 프로젝트  
 프로젝트에 대한 내용은 아래 링크 참고.  
-[프로젝트 소개 및 과정]()
+[프로젝트 소개 및 과정](https://sanghyunpark01.github.io/categories/LiDAR%20to%20Camera%20Projection)
 
 ---
 
